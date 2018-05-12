@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33861
     wikipedia: http://pt.wikipedia.org/wiki/Manuel_Joaquim_Pinheiro_Chagas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23400#A-Lenda-da-Meia-Noite
 edition_note: 2.ª edição
 gutenberg_issued: '2007-11-07'
 gutenberg_type: Text
