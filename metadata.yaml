@@ -1,0 +1,38 @@
+_repo: A-Lenda-da-Meia-Noite_23400
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chagas, Manuel Pinheiro
+    aliases:
+    - Chagas, M. Pinheiro
+    - Pinheiro Chagas, Manuel Joaquim
+    - Chagas, Pinheiro
+    birthdate: 1842
+    deathdate: 1895
+    gutenberg_agent_id: '33861'
+    url: http://www.gutenberg.org/2009/agents/33861
+    wikipedia: http://pt.wikipedia.org/wiki/Manuel_Joaquim_Pinheiro_Chagas
+description: ''
+edition_note: 2.ª edição
+gutenberg_issued: '2007-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23400'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: "Produced by Ricardo F. Diogo, Rita Farinha and the Online\r\nDistributed\
+  \ Proofreading Team at http://www.pgdp.net"
+publication_note: "Lisboa:\r\nParceria A. M. Pereira--Livraria Editora\r\nRua Augusta,\
+  \ 50, 52 E 54\r\nOfficinas Typographica E De Encadernação Movidas A Vapor\r\nRua\
+  \ Dos Correeiros, 70 E 72, 1.º\r\n1906"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese fiction -- 19th century'
+title: A Lenda da Meia-Noite
+url: http://www.gutenberg.org/ebooks/23400
